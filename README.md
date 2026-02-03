@@ -30,7 +30,7 @@ The project is currently under active development. Platform support progress is 
 
 ## 🚀 Download & Installation
 
-You can visit the [Releases page](https://github.com/clash-sing/clash_sing_app/releases) to download the latest installation packages.
+You can visit the [Releases page](https://github.com/clash-sing/clash_sing/releases) to download the latest installation packages.
 
 - **Android**:
     - `universal`: Includes all architectures, larger size, suitable for all phones.
