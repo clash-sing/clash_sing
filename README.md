@@ -1,4 +1,4 @@
-# Clash Sing App
+# Clash Sing
 
 English | [中文简体](README_CN.md)
 
