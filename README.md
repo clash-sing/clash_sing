@@ -4,9 +4,8 @@ English | [中文简体](README_CN.md)
 
 A high-performance cross-platform proxy client developed with Flutter and powered by the [sing-box](https://github.com/SagerNet/sing-box) kernel, featuring support for Clash configuration formats.
 
-[![Build and Release](https://github.com/clash-sing/clash_sing_app/actions/workflows/release.yml/badge.svg)](https://github.com/clash-sing/clash_sing_app/actions/workflows/release.yml)
-[![Release](https://img.shields.io/github/v/release/clash-sing/clash_sing_app)](https://github.com/clash-sing/clash_sing_app/releases)
-[![License](https://img.shields.io/github/license/clash-sing/clash_sing_app)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/clash-sing/clash_sing)](https://github.com/clash-sing/clash_sing/releases)
+[![License](https://img.shields.io/github/license/clash-sing/clash_sing)](LICENSE)
 
 ## 🌟 Features
 
